@@ -8,6 +8,10 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "banner": {
+  "content": "🚀 Version 2.0 is now live! See our [changelog](/changelog) for details.",
+  "dismissible": true 
+  },
   "navigation": {
     "tabs": [
       {
