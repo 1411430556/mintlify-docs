@@ -15,10 +15,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "指南",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "开始",
             "pages": [
               "index",
               "quickstart",
@@ -26,14 +26,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "自定义",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "写作内容",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -42,17 +42,23 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "AI工具",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "更新日志",
+            "pages": [
+            "CHANGELOG"
+            ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API参考",
         "groups": [
           {
             "group": "API documentation",
