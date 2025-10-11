@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-  "content": "🚀 Version 2.0 is now live! See our [changelog](/CHANGELOG) for details.",
+  "content": "🚀 Version 3.0 is now live! See our [changelog](/CHANGELOG) for details.",
   "dismissible": false 
   },
   "navigation": {
