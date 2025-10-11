@@ -19,6 +19,7 @@
         "groups": [
           {
             "group": "开始",
+            "icon": "play",
             "pages": [
               "index",
               "quickstart",
